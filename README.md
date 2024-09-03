@@ -5,3 +5,5 @@
 ![2024-09-02_21-14](https://github.com/user-attachments/assets/b45ce7b2-4e33-4249-adb5-8be135ffd242)
 ![2024-09-02_21-11](https://github.com/user-attachments/assets/83252e8e-de47-4113-8b91-9775ad246b33)
 ![2024-09-02_21-37](https://github.com/user-attachments/assets/c2f96414-3b44-4b6f-9a25-003a49ef5c01)
+![2024-09-03_21-40](https://github.com/user-attachments/assets/5f715888-dbe4-498f-a8f0-00d78798408c)
+![2024-09-03_21-42](https://github.com/user-attachments/assets/61cd739c-b2b8-4ce1-8bc5-047dab67f72c)
