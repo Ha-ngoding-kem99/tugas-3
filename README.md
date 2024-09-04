@@ -1,8 +1,9 @@
+buat 50 command di terminal
 ![2024-09-02_20-35](https://github.com/user-attachments/assets/7caf8e71-6243-4f34-9c64-09517cf0ad7c)
-![2024-09-02_20-53](https://github.com/user-attachments/assets/af79ce1a-f329-4ba9-b3af-cf34ef8ba339)
 ![2024-09-02_21-35](https://github.com/user-attachments/assets/ac2053ce-7298-4bb0-8ab7-e8c0c07d0a66)
 ![2024-09-02_21-32](https://github.com/user-attachments/assets/6dc69f3c-ffa2-45f5-8e05-76e69589dcd9)
 ![2024-09-02_21-14](https://github.com/user-attachments/assets/b45ce7b2-4e33-4249-adb5-8be135ffd242)
+![2024-09-02_20-53](https://github.com/user-attachments/assets/af79ce1a-f329-4ba9-b3af-cf34ef8ba339)
 ![2024-09-02_21-11](https://github.com/user-attachments/assets/83252e8e-de47-4113-8b91-9775ad246b33)
 ![2024-09-02_21-37](https://github.com/user-attachments/assets/c2f96414-3b44-4b6f-9a25-003a49ef5c01)
 ![2024-09-03_21-40](https://github.com/user-attachments/assets/5f715888-dbe4-498f-a8f0-00d78798408c)
@@ -12,3 +13,6 @@
 ![2024-09-04_09-03](https://github.com/user-attachments/assets/70602439-dda6-480c-a696-ac23e0ef4489)
 ![2024-09-04_09-22](https://github.com/user-attachments/assets/8ce990d0-b8cd-4cbc-b709-759dfc3e8f75)
 ![2024-09-04_09-41](https://github.com/user-attachments/assets/c1a585ad-d8b1-4415-b6b5-c37cc2773482)
+![2024-09-04_21-27](https://github.com/user-attachments/assets/4486ca26-217c-4315-b215-6d5be9fa53ba)
+![2024-09-04_21-39](https://github.com/user-attachments/assets/da1358fa-e4b3-47f0-9603-18a4fa2a0287)
+![2024-09-04_21-50](https://github.com/user-attachments/assets/cada033b-c286-47bf-a274-61c88ab4e295)
