@@ -1,4 +1,6 @@
-buat 50 command di terminal
+M.Hakeem Alqardhawi 09011282328072 SK3C
+
+buat 50 command di terminal Linux
 ![2024-09-02_20-35](https://github.com/user-attachments/assets/7caf8e71-6243-4f34-9c64-09517cf0ad7c)
 ![2024-09-02_21-35](https://github.com/user-attachments/assets/ac2053ce-7298-4bb0-8ab7-e8c0c07d0a66)
 ![2024-09-02_21-32](https://github.com/user-attachments/assets/6dc69f3c-ffa2-45f5-8e05-76e69589dcd9)
